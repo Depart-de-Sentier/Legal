@@ -1,5 +1,9 @@
 # Départ de Sentier Association
 
+## 0. Language
+
+English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
+
 ## 1. Name and Seat
 
 An association within the meaning of Articles 60 et seq. of the Swiss Civil Code (“CC”) is hereby created under the name “Départ de Sentier”. It is politically and religiously independent.
