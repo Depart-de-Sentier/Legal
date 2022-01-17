@@ -105,7 +105,7 @@ General Assembly minutes shall be recorded and made publicly available.
 
 ## 9. The Board of Directors
 
-The Board of Directors consists of at least 3 persons.
+The Board of Directors consists of at least 3 persons. (***sometimes there is also set a maximum, which ensure that the Vorstand keeps agile. Tasks can be delegated to members or the Geschäftsstelle if necessary. There's no need that many people are part of the Board of Directors. I'd set a maximum of six to nine people, depending on how large this association might grow, and what the role of the Board should be. If we are seeking members of the Board e.g. from many different countries/associations/companies, then we might need more members. If it comes to organising large events on a regular basis, anyway a Geschäftsstelle would be better***) 
 
 The term of office is 3 years. Re-election is possible.
 
