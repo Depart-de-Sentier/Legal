@@ -81,18 +81,18 @@ Die Mitgliederversammlung ist das oberste Organ des Vereins. Sie hat die folgend
 * Genehmigung des Jahresberichts des Vorstands
 * Entgegennahme des Revisionsberichts und Genehmigung der Jahresrechnung
 * Entlastung des Vorstandes
-* Wahl des Vorstandes sowie der Kontrollstelle.
-* Festsetzung des Mitgliederbeitrages (***because we don't differentiate between aktive/passive Mitglieder***)
+* Wahl des Vorstandes sowie der Kontrollstelle
+* Festsetzung des Mitgliederbeitrages
 * Genehmigung des Jahresbudgets
 * Beschlussfassung über das Tätigkeitsprogramm
 * Beschlussfassung über Anträge des Vorstands und der Mitglieder
 * Änderung der Statuten
 * Entscheid über Ausschlüsse von Mitgliedern.
-* Beschlussfassung über die Auflösung des Vereins und die Verwendung des Liquidationserlöses.
+* Beschlussfassung über die Auflösung des Vereins und die Verwendung des Liquidationserlöses
 
 Jede ordnungsgemäss einberufene Mitgliederversammlung ist unabhängig von der Anzahl der anwesenden Mitglieder beschlussfähig.
 
-Die Mitglieder fassen die Beschlüsse mit dem absolutem Mehr.
+Die Mitglieder fassen Beschlüsse mit dem absoluten Mehr.
 
 Statutenänderungen benötigen die Zustimmung einer 2/3–Mehrheit der Stimmberechtigten.
 
@@ -140,7 +140,7 @@ Für die Schulden des Vereins haftet nur das Vereinsvermögen. Eine persönli
 
 ## 13. Auflösung des Vereins
 
-Die Auflösung des Vereins kann durch Beschluss einer ordentlichen oder ausserordentlichen Mitgliederversammlung beschlossen und mit dem Stimmenmehr von 80 prozent der anwesenden Mitglieder aufgelöst werden.
+Die Auflösung des Vereins kann durch Beschluss einer ordentlichen oder ausserordentlichen Mitgliederversammlung beschlossen und mit dem Stimmenmehr von 80 Prozent der anwesenden Mitglieder aufgelöst werden.
 
 Bei einer Auflösung des Vereins fällt das Vereinsvermögen an eine steuerbefreite Organisation welche den gleichen oder einen ähnlichen Zweck verfolgt. Die Verteilung des Vereinsvermögens unter den Mitgliedern ist ausgeschlossen.
 

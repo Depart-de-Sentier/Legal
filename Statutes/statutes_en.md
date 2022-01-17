@@ -85,14 +85,14 @@ The General Assembly is the supreme body of the Association. It has the followin
 * Approval of the annual report of the Board
 * Acceptance of the auditor's report and approval of the annual accounts
 * Discharge of the Board of Directors
-* Election of the Board of Directors as well as the Auditors.
+* Election of the Board of Directors as well as the Auditors
 * Determination of the membership fees
 * Approval of the annual budget
 * Adoption of resolutions on the program of activities
 * Adoption of resolutions on motions of the Board of Directors and the members
 * Amendment of the statutes
 * Decision on exclusion of members.
-* Decision-making on the dissolution of the Association and the use of the liquidation proceeds.
+* Decision-making on the dissolution of the Association and the use of the liquidation proceeds
 
 Any General Assembly duly convened shall constitute a quorum regardless of the number of members present.
 
