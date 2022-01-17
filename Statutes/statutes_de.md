@@ -16,7 +16,7 @@ Der Verein bezweckt:
 * Unterstützung des aktiven Engagements der Bürger bei der Überwachung, Interpretation und Verwaltung des persönlichen Energie- und Materialverbrauchs
 * Erleichterung des wissenschaftlichen Austauschs über offene Wissenschaft für die Nachhaltigkeitsbewertung
 
-Der Verein verfolgt keine Erwerbszwecke.
+Der Verein verfolgt keine Erwerbszwecke. Die Organe sind ehrenamtlich tätig. 
 
 ## 3. Mittel
 
@@ -51,7 +51,7 @@ Die Mitgliedschaft erlischt
 
 Ein Vereinsaustritt ist jederzeit möglich. Das Austrittsschreiben muss mindestens 2 Wochen vor der ordentlichen Mitgliederversammlung schriftlich an den Vorstand gerichtet werden. Für das angebrochene Jahr ist der volle Mitgliederbeitrag zu bezahlen.
 
-Ein Mitglied kann jederzeit wegen Verstösse gegen die Ziele des Vereins aus dem Verein ausgeschlossen werden.
+Ein Mitglied kann jederzeit wegen Verstössen gegen die Ziele des Vereins aus dem Verein ausgeschlossen werden.
 
 Der Vorstand fällt den Ausschlussentscheid; das Mitglied kann den Ausschlussentscheid an die Mitgliederversammlung weiterziehen.
 
@@ -64,17 +64,17 @@ Die Organe des Vereins sind:
 * die Mitgliederversammlung
 * der Vorstand
 * die Revisionsstelle
-* die Geschäftsstelle
+* die Geschäftsstelle  (***are you sure you want to split between Vorstand (strategisch, Management) und Geschäftsstelle (operativ, administrativ, oft bezahlt)? Of course that's possible. As to my experiences in Vereinen, the Admin stuff was up to someone (or several) in the Vorstand. Depends a bit on how much we want to grow here on the medium/long term, i.e. if we indeed envisage to hire a person to work on the admin. It is possible to hire someone who is in the Vorstand, but this needs to be communicated in a very transparent way. Mind: As soon as we hire someone, we in the Vorstand are financially liable for all Sozialversicherungsabgaben (while for other finances it is the whole Verein). Let's maybe talk about it, seems to be easier than written format. If I understand correctly, in Bonsai you also have a Geschäftsstelle with Michele who gets paid his work? ***
 
 ## 8. Die Mitgliederversammlung
 
-Das oberste Organ des Vereins ist die Mitgliederversammlung. Eine ordentliche Mitgliederversammlung findet jährlich am Frühling statt.
+Das oberste Organ des Vereins ist die Mitgliederversammlung. Eine ordentliche Mitgliederversammlung findet jährlich im Frühling statt.
 
-Zur Mitgliederversammlung werden die Mitglieder 14 Tage im Voraus schriftlich unter Angabe der Traktanden eingeladen. Einladungen per E-Mail sind gültig.
+Zur Mitgliederversammlung werden die Mitglieder 14 Tage (***quite short notice, not? This would give them 7 days to react on the Traktanden***) im Voraus schriftlich unter Angabe der Traktanden eingeladen. Einladungen per E-Mail sind gültig.
 
-Anträge zuhanden der Mitgliederversammlung sind bis spätestens 7 Tage schriftlich an den Vorstand zu richten.
+Anträge zuhanden der Mitgliederversammlung sind bis spätestens 7 Tage vor der Mitgliederversammlung schriftlich an den Vorstand zu richten.
 
-Der Vorstand oder 20 prozent der Mitglieder können jederzeit die Einberufung einer ausserordentlichen Mitgliederversammlung unter Angaben des Zwecks verlangen. Die Versammlung hat spätestens 6 Wochen nach Eingang des Begehrens zu erfolgen.
+Der Vorstand oder 20 Prozent der Mitglieder können jederzeit die Einberufung einer ausserordentlichen Mitgliederversammlung unter Angabe des Zwecks verlangen. Die Versammlung hat spätestens 6 Wochen nach Eingang des Begehrens zu erfolgen.
 
 Die Mitgliederversammlung ist das oberste Organ des Vereins. Sie hat die folgenden unentziehbaren Aufgaben und Kompetenzen:
 
@@ -83,7 +83,7 @@ Die Mitgliederversammlung ist das oberste Organ des Vereins. Sie hat die folgend
 * Entgegennahme des Revisionsberichts und Genehmigung der Jahresrechnung
 * Entlastung des Vorstandes
 * Wahl des Vorstandes sowie der Kontrollstelle.
-* Festsetzung der Mitgliederbeiträge
+* Festsetzung des Mitgliederbeitrages (***because we don't differentiate between aktive/passive Mitglieder***)
 * Genehmigung des Jahresbudgets
 * Beschlussfassung über das Tätigkeitsprogramm
 * Beschlussfassung über Anträge des Vorstands und der Mitglieder
@@ -125,11 +125,11 @@ Der Vorstand ist grundsätzlich ehrenamtlich tätig, er hat Anrecht auf Vergu�
 
 ## 10. Die Revisionsstelle
 
-Die Mitgliederversammlung wählt einen Rechnungsrevisor, welche die Buchführung kontrollieren und mindestens einmal jährlich eine Stichkontrolle durchführen.
+Die Mitgliederversammlung wählt einen Rechnungsrevisor, welcher die Buchführung kontrolliert und mindestens einmal jährlich eine Stichkontrolle durchführt.
 
 Die Revisionsstelle erstattet dem Vorstand zuhanden der Mitgliederversammlung Bericht und Antrag.
 
-Die Amtszeit beträgt ein Jahr. Wiederwahl ist möglich.
+Die Amtszeit beträgt ein Jahr (***I'd suggest to set this to 2 years. As to my experience, it takes some time to get into this task (unless someone has already experience with it). So it would be beneficial to not loose this knowledge after one year again***). Wiederwahl ist möglich.
 
 ## 11. Zeichnungsberechtigung
 
