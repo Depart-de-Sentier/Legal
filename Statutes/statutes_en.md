@@ -20,7 +20,7 @@ The Association is created to:
 * Support active citizen engagement in monitoring, interpreting, and managing personal energy and material use
 * Facilitate scientific interchange on open science for sustainability assessment
 
-The Association has no profit purposes.
+The Association has no profit purposes. Membership in organs of the association is unpaid.
 
 ## 3. Means
 
@@ -67,14 +67,13 @@ The organs of the association are:
 
 * the General Assembly
 * the Board of Directors
-* the auditors
-* the office
+* the Auditor(s)
 
 ## 8. The General Assembly
 
 The highest body of the association is the General Assembly. An ordinary General Assembly is held annually in the spring.
 
-Members are invited to the General Assembly 14 days in advance in writing, stating the agenda items. Invitations by e-mail are valid.
+Members are invited to the General Assembly 21 days in advance in writing, stating the agenda items. Invitations by e-mail are valid.
 
 Proposals to the General Assembly must be submitted in writing to the Board of Directors no later than 7 days before the General Assembly.
 
@@ -105,7 +104,7 @@ General Assembly minutes shall be recorded and made publicly available.
 
 ## 9. The Board of Directors
 
-The Board of Directors consists of at least 3 persons. (***sometimes there is also set a maximum, which ensure that the Vorstand keeps agile. Tasks can be delegated to members or the Geschäftsstelle if necessary. There's no need that many people are part of the Board of Directors. I'd set a maximum of six to nine people, depending on how large this association might grow, and what the role of the Board should be. If we are seeking members of the Board e.g. from many different countries/associations/companies, then we might need more members. If it comes to organising large events on a regular basis, anyway a Geschäftsstelle would be better***) 
+The Board of Directors consists of between 3 and 7 persons.
 
 The term of office is 3 years. Re-election is possible.
 
@@ -133,7 +132,7 @@ The General Assembly elects an auditor who checks the accounts and carries out a
 
 The auditors report and propose to the Board of Directors for the attention of the General Assembly.
 
-The term of office is one year. Re-election is possible.
+The term of office is two years. Re-election is possible.
 
 ## 11. Authority to sign
 
