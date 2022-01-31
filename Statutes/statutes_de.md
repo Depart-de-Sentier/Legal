@@ -114,7 +114,13 @@ Er kann für die Erreichung der Vereinsziele Personen gegen eine angemessene En
 
 Der Vorstand verfügt über alle Kompetenzen, die nicht von Gesetzes wegen oder gemäss dieser Statuten einem anderen Organ übertragen sind.
 
-Der Vorstand konstituiert sich selber.
+Im Vorstand sind folgende Ressorts vertreten:
+
+* Präsidium
+* Vizepräsidium
+* Aktuariat
+
+Ämterkumulation ist möglich.
 
 Der Vorstand versammelt sich, sooft es die Geschäfte verlangen. Jedes Vorstandsmitglied kann unter Angabe der Gründe die Einberufung einer Sitzung verlangen.
 
