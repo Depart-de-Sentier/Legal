@@ -154,8 +154,34 @@ In the event of dissolution of the Association, the assets of the Association sh
 
 ## 14. Constitution of the Association
 
-These statutes were adopted at the founding meeting of [founding date] and came into force on that date.
+These statutes were adopted at the founding meeting of 01.02.2022 and came into force on that date.
 
-Date, Place _______________________________
+Date, Place: 1.2.2022, 5223 Riniken
 
-The Board: ________________________
+The Board:
+
+
+
+
+
+Christopher L. Mutel
+President
+
+
+
+
+
+Tomás Navarrete Gutierrez
+Vice President
+
+
+
+
+
+Karin Treyer
+Actuary
+
+
+* President
+* Vice President
+* Actuary

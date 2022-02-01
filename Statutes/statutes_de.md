@@ -152,8 +152,29 @@ Bei einer Auflösung des Vereins fällt das Vereinsvermögen an eine steuerbe
 
 ## 14. Inkrafttreten
 
-Diese Statuten wurden an der Gründungsversammlung vom [Gründungsdatum] angenommen und sind mit diesem Datum in Kraft getreten.
+Diese Statuten wurden an der Gründungsversammlung vom 01.02.2022 angenommen und sind mit diesem Datum in Kraft getreten.
 
-Datum, Ort _______________________________
+Datum, Ort: 01.02.2022, 5223 Riniken
 
-Der Vorstand: ________________________
+Der Vorstand:
+
+
+
+
+
+Christopher L. Mutel
+Präsidium
+
+
+
+
+
+Tomás Navarrete Gutierrez
+Vizepräsidium
+
+
+
+
+
+Karin Treyer
+Aktuariat
