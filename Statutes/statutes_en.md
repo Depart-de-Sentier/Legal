@@ -118,12 +118,6 @@ It can employ or commission persons for the achievement of the association's goa
 
 The Board of Directors has all competences which are not assigned to another body by law or according to these Articles of Association.
 
-Members of the Board of Directors can have one or more of the following offices:
-
-* President
-* Vice President
-* Actuary
-
 The board meets as often as business requires. Any member of the Board may request a meeting, stating the reasons.
 
 Unless a member of the Board of Directors requests oral deliberation, resolutions may be passed by circular letter (including e-mail).
