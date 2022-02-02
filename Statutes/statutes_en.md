@@ -154,28 +154,14 @@ Date, Place: 1.2.2022, 5223 Riniken
 
 The Board:
 
-
-
-
-
 Christopher L. Mutel
+
 President
 
-
-
-
-
 Tomás Navarrete Gutierrez
+
 Vice President
 
-
-
-
-
 Karin Treyer
+
 Actuary
-
-
-* President
-* Vice President
-* Actuary

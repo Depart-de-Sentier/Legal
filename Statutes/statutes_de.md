@@ -154,23 +154,14 @@ Datum, Ort: 01.02.2022, 5223 Riniken
 
 Der Vorstand:
 
-
-
-
-
 Christopher L. Mutel
+
 Präsidium
 
-
-
-
-
 Tomás Navarrete Gutierrez
+
 Vizepräsidium
 
-
-
-
-
 Karin Treyer
+
 Aktuariat
