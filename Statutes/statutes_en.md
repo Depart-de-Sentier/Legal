@@ -102,6 +102,8 @@ Amendments to the statutes require the approval of a 2/3 majority of those entit
 
 General Assembly minutes shall be recorded and made publicly available.
 
+The General Assembly can be held physically or online.
+
 ## 9. The Board of Directors
 
 The Board of Directors consists of between 3 and 7 persons.

@@ -98,6 +98,8 @@ Statutenänderungen benötigen die Zustimmung einer 2/3–Mehrheit der Stimmbe
 
 Die Protokolle der Mitgliederversammlung werden aufgezeichnet und der Öffentlichkeit zugänglich gemacht.
 
+Die Mitgliederversammlung kann physisch oder online abgehalten werden.
+
 ## 9. Der Vorstand
 
 Der Vorstand besteht aus 3 bis 7 Personen.
