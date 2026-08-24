@@ -71,7 +71,7 @@ The organs of the association are:
 
 ## 8. The General Assembly
 
-The highest body of the association is the General Assembly. An ordinary General Assembly is held annually in the spring.
+The highest body of the association is the General Assembly. An ordinary General Assembly is held annually.
 
 Members are invited to the General Assembly 21 days in advance in writing, stating the agenda items. Invitations by e-mail are valid.
 
@@ -150,7 +150,7 @@ In the event of dissolution of the Association, the assets of the Association sh
 
 ## 14. Constitution of the Association
 
-These statutes were approved at the general assembly of 19.05.2023 and came into force on that date.
+These statutes were approved at the general assembly of 16.10.2025 and came into force on that date.
 
 Date, Place: 1.2.2022, 5223 Riniken
 
