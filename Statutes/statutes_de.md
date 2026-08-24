@@ -67,7 +67,7 @@ Die Organe des Vereins sind:
 
 ## 8. Die Mitgliederversammlung
 
-Das oberste Organ des Vereins ist die Mitgliederversammlung. Eine ordentliche Mitgliederversammlung findet jährlich im Frühling statt.
+Das oberste Organ des Vereins ist die Mitgliederversammlung. Eine ordentliche Mitgliederversammlung findet jährlich statt.
 
 Zur Mitgliederversammlung werden die Mitglieder 21 Tage im Voraus schriftlich unter Angabe der Traktanden eingeladen. Einladungen per E-Mail sind gültig.
 
@@ -150,7 +150,7 @@ Bei einer Auflösung des Vereins fällt das Vereinsvermögen an eine steuerbe
 
 ## 14. Inkrafttreten
 
-Diese Statuten wurden an der Mitgliederversammlung vom 19.05.2023 angenommen und sind mit diesem Datum in Kraft getreten.
+Diese Statuten wurden an der Mitgliederversammlung vom 16.10.2025 angenommen und sind mit diesem Datum in Kraft getreten.
 
 Datum, Ort: 01.02.2022, 5223 Riniken
 
