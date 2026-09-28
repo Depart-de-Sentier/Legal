@@ -94,11 +94,15 @@ The General Assembly is the supreme body of the Association. It has the followin
 * Decision on exclusion of members.
 * Decision-making on the dissolution of the Association and the use of the liquidation proceeds
 
+The Board may accept and use, outside the approved annual budget, earmarked third-party funds received after the annual budget has been approved, provided their purpose is compatible with the purpose of the Association. The Board shall inform the General Assembly thereof at the next ordinary General Assembly.
+
 Any General Assembly duly convened shall constitute a quorum regardless of the number of members present.
 
-Resolutions are passed by an absolute majority of the members.
+Any member may be represented at the General Assembly by another member by written proxy. The proxy must be submitted to the Board before voting or elections begin. No member may hold more than two (2) proxies. Represented members are deemed present for the purposes of quorum and majority calculations.
 
-Amendments to the statutes require the approval of a 2/3 majority of those entitled to vote.
+Resolutions are passed by an absolute majority of the members present or represented.
+
+Amendments to the statutes require the approval of a 2/3 majority of those entitled to vote who are present or represented.
 
 General Assembly minutes shall be recorded and made publicly available.
 
@@ -110,7 +114,7 @@ The Board of Directors consists of between 3 and 7 persons.
 
 The term of office is 3 years. Re-election is possible.
 
-The board manages the current business and represents the association externally.
+The Board of Directors conducts the day-to-day business and represents the Association externally. It may delegate operational management, in whole or in part, to a management function or to individual employees; oversight and responsibility towards the General Assembly remain with the Board.
 
 It issues regulations.
 
@@ -124,11 +128,13 @@ The board meets as often as business requires. Any member of the Board may reque
 
 Unless a member of the Board of Directors requests oral deliberation, resolutions may be passed by circular letter (including e-mail).
 
+Board members shall recuse themselves from deliberation and decision-making on matters in which they, persons or organisations close to them have a personal or financial interest (in particular the award of contracts, employment relationships, or fees). Any recusal shall be recorded in the minutes.
+
 The Board of Directors is in principle active on an honorary basis; it is entitled to reimbursement of effective expenses.
 
 ## 10. The Auditors
 
-The General Assembly elects an auditor who checks the accounts and carries out a spot check at least once a year.
+The General Assembly elects one or two persons as auditors, who check the accounts.
 
 The auditors report and propose to the Board of Directors for the attention of the General Assembly.
 
@@ -136,7 +142,7 @@ The term of office is two years. Re-election is possible.
 
 ## 11. Authority to sign
 
-At least two members of the Board of Directors must sign any legal instrument on behalf of the Association.
+The Board of Directors regulates signing authority, which is by collective signature of two.
 
 ## 12. Liability
 
@@ -144,13 +150,13 @@ Only the Association's assets are liable for the debts of the Association. Membe
 
 ## 13. Dissolution of the Association
 
-The dissolution of the Association can be decided by a resolution of an ordinary or extraordinary General Assembly and can be dissolved with a majority of 80 percent of the votes of the members present.
+The dissolution of the Association may be resolved by an ordinary or extraordinary General Assembly with a majority of 80 percent of those entitled to vote who are present or represented.
 
 In the event of dissolution of the Association, the assets of the Association shall be distributed to a tax-exempt organization pursuing the same or a similar purpose. The distribution of the Association's assets among the members is excluded.
 
 ## 14. Constitution of the Association
 
-These statutes were approved at the general assembly of 16.10.2025 and came into force on that date.
+These statutes were approved at the general assembly of 16.10.2025 and came into force on that date. The amendments to Articles 8, 9, 10, 11 and 13 were adopted at the general assembly of 24.09.2026 and came into force at the close of that assembly.
 
 Date, Place: 1.2.2022, 5223 Riniken
 

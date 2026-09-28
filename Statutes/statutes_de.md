@@ -90,11 +90,15 @@ Die Mitgliederversammlung ist das oberste Organ des Vereins. Sie hat die folgend
 * Entscheid über Ausschlüsse von Mitgliedern.
 * Beschlussfassung über die Auflösung des Vereins und die Verwendung des Liquidationserlöses
 
+Der Vorstand kann zweckgebundene Mittel Dritter, die nach der Genehmigung des Jahresbudgets zufliessen, ausserhalb dieses Budgets annehmen und für den vereinbarten Zweck verwenden, soweit dieser mit dem Vereinszweck vereinbar ist. Der Vorstand informiert die Mitgliederversammlung an der nächsten ordentlichen Versammlung darüber.
+
 Jede ordnungsgemäss einberufene Mitgliederversammlung ist unabhängig von der Anzahl der anwesenden Mitglieder beschlussfähig.
 
-Die Mitglieder fassen Beschlüsse mit dem absoluten Mehr.
+Jedes Mitglied kann sich an der Mitgliederversammlung durch ein anderes Mitglied schriftlich vertreten lassen. Die Vollmacht ist dem Vorstand vor Beginn der Abstimmungen und Wahlen vorzulegen. Ein Mitglied darf höchstens zwei (2) Vollmachten auf sich vereinigen. Vertretene Mitglieder gelten für die Berechnung von Quorum und Mehrheiten als anwesend.
 
-Statutenänderungen benötigen die Zustimmung einer 2/3–Mehrheit der Stimmberechtigten.
+Die Mitglieder fassen Beschlüsse mit dem absoluten Mehr der anwesenden oder vertretenen Stimmberechtigten.
+
+Statutenänderungen benötigen die Zustimmung einer 2/3–Mehrheit der anwesenden oder vertretenen Stimmberechtigten.
 
 Die Protokolle der Mitgliederversammlung werden aufgezeichnet und der Öffentlichkeit zugänglich gemacht.
 
@@ -106,7 +110,7 @@ Der Vorstand besteht aus 3 bis 7 Personen.
 
 Die Amtszeit beträgt 3 Jahre. Wiederwahl ist möglich.
 
-Der Vorstand führt die laufenden Geschäfte und vertritt den Verein nach aussen.
+Der Vorstand führt die laufenden Geschäfte und vertritt den Verein nach aussen. Er kann die operative Geschäftsführung ganz oder teilweise an eine Geschäftsführung oder an einzelne Angestellte delegieren; Aufsicht und Verantwortung gegenüber der Mitgliederversammlung verbleiben beim Vorstand.
 
 Er erlässt Reglemente.
 
@@ -124,11 +128,13 @@ Der Vorstand versammelt sich, sooft es die Geschäfte verlangen. Jedes Vorstand
 
 Sofern kein Vorstandsmitglied mündliche Beratung verlangt, ist die Beschlussfassung auf dem Zirkularweg (auch E-Mail) gültig.
 
+Vorstandsmitglieder treten bei der Beratung und Beschlussfassung über Geschäfte, an denen sie selbst, ihnen nahestehende Personen oder Organisationen ein eigenes wirtschaftliches oder persönliches Interesse haben (namentlich Auftragsvergaben, Anstellungsverhältnisse oder Honorare), in den Ausstand. Der Ausstand ist im Protokoll festzuhalten.
+
 Der Vorstand ist grundsätzlich ehrenamtlich tätig, er hat Anrecht auf Vergütung der effektiven Spesen.
 
 ## 10. Die Revisionsstelle
 
-Die Mitgliederversammlung wählt einen Rechnungsrevisor, welcher die Buchführung kontrolliert und mindestens einmal jährlich eine Stichkontrolle durchführt.
+Die Mitgliederversammlung wählt eine oder zwei Personen als Revisionsstelle, welche die Buchführung kontrollieren.
 
 Die Revisionsstelle erstattet dem Vorstand zuhanden der Mitgliederversammlung Bericht und Antrag.
 
@@ -144,13 +150,13 @@ Für die Schulden des Vereins haftet nur das Vereinsvermögen. Eine persönli
 
 ## 13. Auflösung des Vereins
 
-Die Auflösung des Vereins kann durch Beschluss einer ordentlichen oder ausserordentlichen Mitgliederversammlung beschlossen und mit dem Stimmenmehr von 80 Prozent der anwesenden Mitglieder aufgelöst werden.
+Die Auflösung des Vereins kann von einer ordentlichen oder ausserordentlichen Mitgliederversammlung mit einer Mehrheit von 80 Prozent der anwesenden oder vertretenen Stimmberechtigten beschlossen werden.
 
 Bei einer Auflösung des Vereins fällt das Vereinsvermögen an eine steuerbefreite Organisation welche den gleichen oder einen ähnlichen Zweck verfolgt. Die Verteilung des Vereinsvermögens unter den Mitgliedern ist ausgeschlossen.
 
 ## 14. Inkrafttreten
 
-Diese Statuten wurden an der Mitgliederversammlung vom 16.10.2025 angenommen und sind mit diesem Datum in Kraft getreten.
+Diese Statuten wurden an der Mitgliederversammlung vom 16.10.2025 angenommen und sind mit diesem Datum in Kraft getreten. Die Änderungen der Artikel 8, 9, 10, 11 und 13 wurden an der Mitgliederversammlung vom 24.09.2026 angenommen und sind mit Abschluss dieser Versammlung in Kraft getreten.
 
 Datum, Ort: 01.02.2022, 5223 Riniken
 
