@@ -14,11 +14,11 @@ The Association is created for an indefinite period of time.
 
 The Association is created to:
 
-* Support open source software for sustainability assessment
-* Organize conferences and events on open source software for sustainability assessment
-* Promote public engagement and education on sustainability assessment, citizen science, data transparency, sustainability, and open science
-* Support active citizen engagement in monitoring, interpreting, and managing personal energy and material use
-* Facilitate scientific interchange on open science for sustainability assessment
+- Support open source software for sustainability assessment
+- Organize conferences and events on open source software for sustainability assessment
+- Promote public engagement and education on sustainability assessment, citizen science, data transparency, sustainability, and open science
+- Support active citizen engagement in monitoring, interpreting, and managing personal energy and material use
+- Facilitate scientific interchange on open science for sustainability assessment
 
 The Association has no profit purposes. Membership in organs of the association is unpaid.
 
@@ -26,11 +26,11 @@ The Association has no profit purposes. Membership in organs of the association 
 
 In order to pursue the purpose of the Association, the Association has the following means:
 
-* Membership fees
-* Income from own events
-* Subsidies
-* Income from service agreements
-* Donations and grants of all kinds
+- Membership fees
+- Income from own events
+- Subsidies
+- Income from service agreements
+- Donations and grants of all kinds
 
 The membership fees are determined annually by the General Assembly. Honorary members and acting members of the Board are exempt from the membership fee.
 
@@ -48,8 +48,10 @@ Applications for membership are to be addressed to the Board of Directors; the B
 
 The membership expires
 
-* for natural persons by resignation, exclusion, or death.
-* for legal entities by resignation, exclusion, or dissolution of the legal entity person.
+- for natural persons by resignation, exclusion, or death.
+- for legal entities by resignation, exclusion, or dissolution of the legal entity person.
+
+
 
 ## 6. Withdrawal and exclusion
 
@@ -65,9 +67,11 @@ If a member still owes the membership fee after being sent an overdue notice, th
 
 The organs of the association are:
 
-* the General Assembly
-* the Board of Directors
-* the Auditor(s)
+- the General Assembly
+- the Board of Directors
+- the Auditor(s)
+
+
 
 ## 8. The General Assembly
 
@@ -81,18 +85,18 @@ The Board of Directors or 20 percent of the members may at any time request the 
 
 The General Assembly is the supreme body of the Association. It has the following inalienable tasks and competences:
 
-* Approval of the minutes of the last General Assembly
-* Approval of the annual report of the Board
-* Acceptance of the auditor's report and approval of the annual accounts
-* Discharge of the Board of Directors
-* Election of the Board of Directors as well as the Auditors
-* Determination of the membership fees
-* Approval of the annual budget
-* Adoption of resolutions on the program of activities
-* Adoption of resolutions on motions of the Board of Directors and the members
-* Amendment of the statutes
-* Decision on exclusion of members.
-* Decision-making on the dissolution of the Association and the use of the liquidation proceeds
+- Approval of the minutes of the last General Assembly
+- Approval of the annual report of the Board
+- Acceptance of the auditor's report and approval of the annual accounts
+- Discharge of the Board of Directors
+- Election of the Board of Directors as well as the Auditors
+- Determination of the membership fees
+- Approval of the annual budget
+- Adoption of resolutions on the program of activities
+- Adoption of resolutions on motions of the Board of Directors and the members
+- Amendment of the statutes
+- Decision on exclusion of members.
+- Decision-making on the dissolution of the Association and the use of the liquidation proceeds
 
 The Board may accept and use, outside the approved annual budget, earmarked third-party funds received after the annual budget has been approved, provided their purpose is compatible with the purpose of the Association. The Board shall inform the General Assembly thereof at the next ordinary General Assembly.
 
@@ -157,19 +161,3 @@ In the event of dissolution of the Association, the assets of the Association sh
 ## 14. Constitution of the Association
 
 These statutes were approved at the general assembly of 16.10.2025 and came into force on that date. The amendments to Articles 8, 9, 10, 11 and 13 were adopted at the general assembly of 24.09.2026 and came into force at the close of that assembly.
-
-Date, Place: 1.2.2022, 5223 Riniken
-
-The Board:
-
-Christopher L. Mutel
-
-President
-
-Tomás Navarrete Gutierrez
-
-Vice President
-
-Karin Treyer
-
-Actuary

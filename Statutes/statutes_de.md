@@ -10,11 +10,11 @@ Der Verein wird auf unbestimmte Zeit gegründet.
 
 Der Verein bezweckt:
 
-* Unterstützung von Open-Source-Software für die Nachhaltigkeitsbewertung
-* Organisation von Konferenzen und Veranstaltungen zu Open-Source-Software für die Nachhaltigkeitsbewertung
-* Förderung des öffentlichen Engagements und der Aufklärung über Nachhaltigkeitsbewertung, Bürgerwissenschaft, Datentransparenz, Nachhaltigkeit und offene Wissenschaft
-* Unterstützung des aktiven Engagements der Bürger bei der Überwachung, Interpretation und Verwaltung des persönlichen Energie- und Materialverbrauchs
-* Erleichterung des wissenschaftlichen Austauschs über offene Wissenschaft für die Nachhaltigkeitsbewertung
+- Unterstützung von Open-Source-Software für die Nachhaltigkeitsbewertung
+- Organisation von Konferenzen und Veranstaltungen zu Open-Source-Software für die Nachhaltigkeitsbewertung
+- Förderung des öffentlichen Engagements und der Aufklärung über Nachhaltigkeitsbewertung, Bürgerwissenschaft, Datentransparenz, Nachhaltigkeit und offene Wissenschaft
+- Unterstützung des aktiven Engagements der Bürger bei der Überwachung, Interpretation und Verwaltung des persönlichen Energie- und Materialverbrauchs
+- Erleichterung des wissenschaftlichen Austauschs über offene Wissenschaft für die Nachhaltigkeitsbewertung
 
 Der Verein verfolgt keine Erwerbszwecke. Die Organe sind ehrenamtlich tätig. 
 
@@ -22,11 +22,11 @@ Der Verein verfolgt keine Erwerbszwecke. Die Organe sind ehrenamtlich tätig.
 
 Zur Verfolgung des Vereinszweckes verfügt der Verein über folgende Mittel:
 
-* Mitgliederbeiträge
-* Erträge aus eigenen Veranstaltungen
-* Subventionen
-* Erträge aus Leistungsvereinbarungen
-* Spenden und Zuwendungen aller Art
+- Mitgliederbeiträge
+- Erträge aus eigenen Veranstaltungen
+- Subventionen
+- Erträge aus Leistungsvereinbarungen
+- Spenden und Zuwendungen aller Art
 
 Die Mitgliederbeiträge werden jährlich durch die Mitgliederversammlung festgesetzt. Ehrenmitglieder und amtierende Vorstandsmitglieder sind vom Beitrag befreit.
 
@@ -44,8 +44,10 @@ Aufnahmegesuche sind an den Vorstand zu richten; über die Aufnahme entscheidet
 
 Die Mitgliedschaft erlischt
 
-* bei natürlichen Personen durch Austritt, Ausschluss oder Tod.
-* bei juristischen Personen durch Austritt, Ausschluss oder Auflösung der juristischen Person.
+- bei natürlichen Personen durch Austritt, Ausschluss oder Tod.
+- bei juristischen Personen durch Austritt, Ausschluss oder Auflösung der juristischen Person.
+
+
 
 ## 6. Austritt und Ausschluss
 
@@ -61,9 +63,11 @@ Bleibt ein Mitglied trotz Mahnung den Mitgliederbeitrag schuldig, kann es vom Vo
 
 Die Organe des Vereins sind:
 
-* die Mitgliederversammlung
-* der Vorstand
-* die Revisionsstelle
+- die Mitgliederversammlung
+- der Vorstand
+- die Revisionsstelle
+
+
 
 ## 8. Die Mitgliederversammlung
 
@@ -77,18 +81,18 @@ Der Vorstand oder 20 Prozent der Mitglieder können jederzeit die Einberufung e
 
 Die Mitgliederversammlung ist das oberste Organ des Vereins. Sie hat die folgenden unentziehbaren Aufgaben und Kompetenzen:
 
-* Genehmigung des Protokolls der letzten Mitgliederversammlung
-* Genehmigung des Jahresberichts des Vorstands
-* Entgegennahme des Revisionsberichts und Genehmigung der Jahresrechnung
-* Entlastung des Vorstandes
-* Wahl des Vorstandes sowie der Kontrollstelle
-* Festsetzung des Mitgliederbeitrages
-* Genehmigung des Jahresbudgets
-* Beschlussfassung über das Tätigkeitsprogramm
-* Beschlussfassung über Anträge des Vorstands und der Mitglieder
-* Änderung der Statuten
-* Entscheid über Ausschlüsse von Mitgliedern.
-* Beschlussfassung über die Auflösung des Vereins und die Verwendung des Liquidationserlöses
+- Genehmigung des Protokolls der letzten Mitgliederversammlung
+- Genehmigung des Jahresberichts des Vorstands
+- Entgegennahme des Revisionsberichts und Genehmigung der Jahresrechnung
+- Entlastung des Vorstandes
+- Wahl des Vorstandes sowie der Kontrollstelle
+- Festsetzung des Mitgliederbeitrages
+- Genehmigung des Jahresbudgets
+- Beschlussfassung über das Tätigkeitsprogramm
+- Beschlussfassung über Anträge des Vorstands und der Mitglieder
+- Änderung der Statuten
+- Entscheid über Ausschlüsse von Mitgliedern.
+- Beschlussfassung über die Auflösung des Vereins und die Verwendung des Liquidationserlöses
 
 Der Vorstand kann zweckgebundene Mittel Dritter, die nach der Genehmigung des Jahresbudgets zufliessen, ausserhalb dieses Budgets annehmen und für den vereinbarten Zweck verwenden, soweit dieser mit dem Vereinszweck vereinbar ist. Der Vorstand informiert die Mitgliederversammlung an der nächsten ordentlichen Versammlung darüber.
 
@@ -157,19 +161,3 @@ Bei einer Auflösung des Vereins fällt das Vereinsvermögen an eine steuerbe
 ## 14. Inkrafttreten
 
 Diese Statuten wurden an der Mitgliederversammlung vom 16.10.2025 angenommen und sind mit diesem Datum in Kraft getreten. Die Änderungen der Artikel 8, 9, 10, 11 und 13 wurden an der Mitgliederversammlung vom 24.09.2026 angenommen und sind mit Abschluss dieser Versammlung in Kraft getreten.
-
-Datum, Ort: 01.02.2022, 5223 Riniken
-
-Der Vorstand:
-
-Christopher L. Mutel
-
-Präsidium
-
-Tomás Navarrete Gutierrez
-
-Vizepräsidium
-
-Karin Treyer
-
-Aktuariat
