@@ -47,3 +47,151 @@ Die Mitgliedschaft erlischt
 - bei natürlichen Personen durch Austritt, Ausschluss oder Tod.
 - bei juristischen Personen durch Austritt, Ausschluss oder Auflösung der juristischen Person.
 
+## 6. Austritt und Ausschluss
+
+Ein Vereinsaustritt ist jederzeit möglich. Das Austrittsschreiben muss mindestens 2 Wochen vor der ordentlichen Mitgliederversammlung schriftlich an den Vorstand gerichtet werden. Für das angebrochene Jahr ist der volle Mitgliederbeitrag zu bezahlen.
+
+Ein Mitglied kann jederzeit wegen Verstössen gegen die Ziele des Vereins aus dem Verein ausgeschlossen werden.
+
+Der Vorstand fällt den Ausschlussentscheid; das Mitglied kann den Ausschlussentscheid an die Mitgliederversammlung weiterziehen.
+
+Bleibt ein Mitglied trotz Mahnung den Mitgliederbeitrag schuldig, kann es vom Vorstand automatisch ausgeschlossen werden.
+
+## 7. Organe des Vereins
+
+Die Organe des Vereins sind:
+
+- die Mitgliederversammlung
+- der Vorstand
+- die Revisionsstelle
+
+## 8. Die Mitgliederversammlung
+
+Das oberste Organ des Vereins ist die Mitgliederversammlung. Eine ordentliche Mitgliederversammlung findet jährlich statt.
+
+Zur Mitgliederversammlung werden die Mitglieder 21 Tage im Voraus schriftlich unter Angabe der Traktanden eingeladen. Einladungen per E-Mail sind gültig.
+
+Anträge zuhanden der Mitgliederversammlung sind bis spätestens 7 Tage vor der Mitgliederversammlung schriftlich an den Vorstand zu richten.
+
+Der Vorstand oder 20 Prozent der Mitglieder können jederzeit die Einberufung einer ausserordentlichen Mitgliederversammlung unter Angabe des Zwecks verlangen. Die Versammlung hat spätestens 6 Wochen nach Eingang des Begehrens zu erfolgen.
+
+Die Mitgliederversammlung ist das oberste Organ des Vereins. Sie hat die folgenden unentziehbaren Aufgaben und Kompetenzen:
+
+- Genehmigung des Protokolls der letzten Mitgliederversammlung
+- Genehmigung des Jahresberichts des Vorstands
+- Entgegennahme des Revisionsberichts und Genehmigung der Jahresrechnung
+- Entlastung des Vorstandes
+- Wahl des Vorstandes sowie der Kontrollstelle
+- Festsetzung des Mitgliederbeitrages
+- Genehmigung des Jahresbudgets
+- Beschlussfassung über das Tätigkeitsprogramm
+- Beschlussfassung über Anträge des Vorstands und der Mitglieder
+- Änderung der Statuten
+- Entscheid über Ausschlüsse von Mitgliedern.
+- Beschlussfassung über die Auflösung des Vereins und die Verwendung des Liquidationserlöses
+
+Der Vorstand kann zweckgebundene Mittel Dritter, die nach der Genehmigung des Jahresbudgets zufliessen, ausserhalb dieses Budgets annehmen und für den vereinbarten Zweck verwenden, soweit dieser mit dem Vereinszweck vereinbar ist. Der Vorstand informiert die Mitgliederversammlung an der nächsten ordentlichen Versammlung darüber.
+
+Jede ordnungsgemäss einberufene Mitgliederversammlung ist unabhängig von der Anzahl der anwesenden Mitglieder beschlussfähig.
+
+Jedes Mitglied kann sich an der Mitgliederversammlung durch ein anderes Mitglied schriftlich vertreten lassen. Die Vollmacht ist dem Vorstand vor Beginn der Abstimmungen und Wahlen vorzulegen. Ein Mitglied darf höchstens zwei (2) Vollmachten auf sich vereinigen. Vertretene Mitglieder gelten für die Berechnung von Quorum und Mehrheiten als anwesend.
+
+Die Mitglieder fassen Beschlüsse mit dem absoluten Mehr der anwesenden oder vertretenen Stimmberechtigten.
+
+Statutenänderungen benötigen die Zustimmung einer 2/3–Mehrheit der anwesenden oder vertretenen Stimmberechtigten.
+
+Die Protokolle der Mitgliederversammlung werden aufgezeichnet und der Öffentlichkeit zugänglich gemacht.
+
+Die Mitgliederversammlung kann physisch oder online abgehalten werden.
+
+## 9. Der Vorstand
+
+Der Vorstand besteht aus 3 bis 7 Personen.
+
+Die Amtszeit beträgt 3 Jahre. Wiederwahl ist möglich.
+
+Der Vorstand führt die laufenden Geschäfte und vertritt den Verein nach aussen. Er kann die operative Geschäftsführung ganz oder teilweise an eine Geschäftsführung oder an einzelne Angestellte delegieren; Aufsicht und Verantwortung gegenüber der Mitgliederversammlung verbleiben beim Vorstand.
+
+Er erlässt Reglemente.
+
+Er kann Arbeitsgruppen (Fachgruppen) einsetzen.
+
+Er kann für die Erreichung der Vereinsziele Personen gegen eine angemessene Entschädigung anstellen oder beauftragen.
+
+Der Vorstand verfügt über alle Kompetenzen, die nicht von Gesetzes wegen oder gemäss dieser Statuten einem anderen Organ übertragen sind.
+
+Der Vorstand konstituiert sich selber.
+
+Ämterkumulation ist möglich.
+
+Der Vorstand versammelt sich, sooft es die Geschäfte verlangen. Jedes Vorstandsmitglied kann unter Angabe der Gründe die Einberufung einer Sitzung verlangen.
+
+Sofern kein Vorstandsmitglied mündliche Beratung verlangt, ist die Beschlussfassung auf dem Zirkularweg (auch E-Mail) gültig.
+
+Vorstandsmitglieder treten bei der Beratung und Beschlussfassung über Geschäfte, an denen sie selbst, ihnen nahestehende Personen oder Organisationen ein eigenes wirtschaftliches oder persönliches Interesse haben (namentlich Auftragsvergaben, Anstellungsverhältnisse oder Honorare), in den Ausstand. Der Ausstand ist im Protokoll festzuhalten.
+
+Der Vorstand ist grundsätzlich ehrenamtlich tätig, er hat Anrecht auf Vergütung der effektiven Spesen.
+
+## 10. Die Revisionsstelle
+
+Die Mitgliederversammlung wählt eine oder zwei Personen als Revisionsstelle, welche die Buchführung kontrollieren.
+
+Die Revisionsstelle erstattet dem Vorstand zuhanden der Mitgliederversammlung Bericht und Antrag.
+
+Die Amtszeit beträgt 2 Jahre. Wiederwahl ist möglich.
+
+## 11. Zeichnungsberechtigung
+
+Der Vorstand regelt die Zeichnungsberechtigung zu zweien.
+
+## 12. Haftung
+
+Für die Schulden des Vereins haftet nur das Vereinsvermögen. Eine persönliche Haftung der Mitglieder ist ausgeschlossen.
+
+## 13. Auflösung des Vereins
+
+Die Auflösung des Vereins kann von einer ordentlichen oder ausserordentlichen Mitgliederversammlung mit einer Mehrheit von 80 Prozent der anwesenden oder vertretenen Stimmberechtigten beschlossen werden.
+
+Bei einer Auflösung des Vereins fällt das Vereinsvermögen an eine steuerbefreite Organisation welche den gleichen oder einen ähnlichen Zweck verfolgt. Die Verteilung des Vereinsvermögens unter den Mitgliedern ist ausgeschlossen.
+
+## 14. Inkrafttreten
+
+Diese Statuten wurden an der Gründungsversammlung vom 01.02.2022 angenommen und sind mit diesem Datum in Kraft getreten.
+
+Sie wurden seither wie folgt geändert; die Änderungen dieser Statuten traten mit der Beschlussfassung durch die Mitgliederversammlung in Kraft:
+
+- Mitgliederversammlung vom 19.05.2023: Änderung von Artikel 8
+- Ausserordentliche Mitgliederversammlung vom 16.10.2025: Änderung von Artikel 8
+- Mitgliederversammlung vom 24.09.2026: Änderung der Artikel 8, 9, 10, 11 und 13
+
+Datum, Ort: 01.02.2022, 5223 Riniken
+
+Der Vorstand:
+
+Christopher L. Mutel
+
+Präsidium
+
+Tomás Navarrete Gutierrez
+
+Vizepräsidium
+
+Karin Treyer
+
+Aktuariat
+
+---
+
+Die Änderungen wurden an der Mitgliederversammlung vom 24.09.2026 beschlossen.
+
+Karin Treyer
+
+Vorsitz
+
+Datum, Ort: ______________________
+
+Mélanie Douziech
+
+Protokollführung
+
+Datum, Ort: ______________________

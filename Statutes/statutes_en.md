@@ -158,6 +158,44 @@ The dissolution of the Association may be resolved by an ordinary or extraordina
 
 In the event of dissolution of the Association, the assets of the Association shall be distributed to a tax-exempt organization pursuing the same or a similar purpose. The distribution of the Association's assets among the members is excluded.
 
-## 14. Constitution of the Association
+## 14. Entry into force
 
-These statutes were approved at the general assembly of 16.10.2025 and came into force on that date. The amendments to Articles 8, 9, 10, 11 and 13 were adopted at the general assembly of 24.09.2026 and came into force at the close of that assembly.
+These statutes were adopted at the founding assembly of 01.02.2022 and came into force on that date.
+
+They have since been amended as follows; amendments to these statutes entered into force upon adoption by the General Assembly:
+
+- General Assembly of 19.05.2023: amendment to Article 8
+- Extraordinary General Assembly of 16.10.2025: amendment to Article 8
+- General Assembly of 24.09.2026: amendments to Articles 8, 9, 10, 11 and 13
+
+Date, place: 01.02.2022, 5223 Riniken
+
+The Board:
+
+Christopher L. Mutel
+
+President
+
+Tomás Navarrete Gutierrez
+
+Vice President
+
+Karin Treyer
+
+Actuary
+
+---
+
+The amendments were adopted at the General Assembly of 24.09.2026.
+
+Karin Treyer
+
+Chair
+
+Date, place: ______________________
+
+Mélanie Douziech
+
+Minute-taker
+
+Date, place: ______________________
